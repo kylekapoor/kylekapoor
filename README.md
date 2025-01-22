@@ -28,4 +28,4 @@
 
 😊 Always Happy To Connect & Collaborate!  
 
-📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com
+📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com)
