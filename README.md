@@ -1,6 +1,6 @@
 # Hey, I'm Kyle! 👋
 
-<img align="right" width="485" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desk setup with motivational monitor">
+<img align="right" width="480" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desk setup with motivational monitor">
 
 🖥️ Computer Science @ University of Waterloo  
 
@@ -15,5 +15,3 @@
 😊 Always Happy To Connect & Collaborate!  
 
 📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com)
-
-📞 Phone: <a href="tel:+1-437-247-9811">+1 (437) 247-9811</a>
