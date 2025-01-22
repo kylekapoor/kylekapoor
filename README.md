@@ -6,9 +6,8 @@
     align="right" 
   />
 
-  <p style="font-size: 3em; font-weight: bold">
-    <span ">Hey, I'm Kyle! 👋</span>
-  </p>
+  <!-- Using a <strong> tag for bold and a <h1> tag for large font size -->
+  <h1><strong>Hey, I'm Kyle! 👋</strong></h1>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
