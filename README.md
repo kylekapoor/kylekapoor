@@ -6,7 +6,9 @@
     align="right" 
   />
 
-  <h1><strong><u>Hey, I'm Kyle! 👋</u></strong></h1>
+  <h1 style="display: inline-block; border-bottom: 3px solid #000; padding-left: 10px; padding-right: 10px;">
+    <strong>Hey, I'm Kyle! 👋</strong>
+  </h1>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
