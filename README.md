@@ -9,17 +9,17 @@
 
   <h1>Hey! I'm Kyle! 👋</h1>
 
-  <ul>
-    <li>🖥️ <b>Computer Science Student</b> @ University of Waterloo</li>
-    <li>🚀 Actively Seeking <b>2025/2026 Internships</b></li>
-    <li>🛠️ Passionate About Building <b>Cool Projects</b> on <a href="https://github.com/kylekapoor?tab=repositories">GitHub</a></li>
-    <li>🇨🇦 Based in <b>Toronto, Ontario, Canada</b></li>
-    <li>🏎️ <b>F1 & NBA Enthusiast</b></li>
-    <li>😊 Always Excited to Connect & Collaborate!</li>
-  </ul>
+  <p>
+    🖥️ <b>Computer Science Student</b> @ University of Waterloo<br>
+    🚀 Actively Seeking <b>2025/2026 Internships</b><br>
+    🛠️ Passionate About Building <b>Cool Projects</b> on <a href="https://github.com/kylekapoor?tab=repositories">GitHub</a><br>
+    🇨🇦 Based in <b>Toronto, Ontario, Canada</b><br>
+    🏎️ <b>F1 & NBA Enthusiast</b><br>
+    😊 Always Excited to Connect & Collaborate!<br>
+  </p>
 
-  <h2>Contact</h2>
-  <ul>
-    <li>📧 <b>Email</b>: <a href="mailto:kylekapoor411@gmail.com">kylekapoor411@gmail.com</a> | <a href="mailto:k36kapoo@uwaterloo.ca">k36kapoo@uwaterloo.ca</a></li>
-  </ul>
+  <p>
+    📧 <b>Email</b>: <a href="mailto:kylekapoor411@gmail.com">kylekapoor411@gmail.com</a> | 
+    <a href="mailto:k36kapoo@uwaterloo.ca">k36kapoo@uwaterloo.ca</a>
+  </p>
 </p>
