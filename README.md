@@ -6,9 +6,9 @@
     align="right" 
   />
 
-  <h1 style="font-size: 3em; font-weight: bold">
+  <p style="font-size: 3em; font-weight: bold">
     <span ">Hey, I'm Kyle! 👋</span>
-  </h1>
+  </p>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
