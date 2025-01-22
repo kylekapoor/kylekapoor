@@ -6,8 +6,7 @@
     align="right" 
   />
 
-  <!-- Using <h1> for larger text and <strong> for bold -->
-  <h1><strong>Hey, I'm Kyle! 👋</strong></h1>
+  <h1><strong><u>Hey, I'm Kyle! 👋</u></strong></h1>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
