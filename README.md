@@ -6,9 +6,13 @@
   <a href="https://www.linkedin.com/in/kylekapoor/">
     <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/>
   </a>
-  &nbsp; <!-- Adds a little space between the badges -->
+  <span style="margin-right: 30px;"></span>
   <a href="https://www.instagram.com/kyle_kapoor/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F" alt="Instagram"/>
+  </a>
+  <span style="margin-right: 30px;"></span>
+  <a href="https://github.com/kylekapoor?tab=repositories">
+    <img src="https://img.shields.io/badge/-GitHub-%23121011" alt="GitHub"/>
   </a>
 </p>
 
