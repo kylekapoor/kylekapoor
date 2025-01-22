@@ -6,8 +6,8 @@
     align="right" 
   />
 
-  <h1 style="display: inline-block; border-bottom: 3px solid #000; padding-left: 10px; padding-right: 10px;">
-    <ins>Hey, I'm Kyle! 👋<ins>
+  <h1 style="display: inline-block; padding-left: 10px; padding-right: 10px;">
+    <strong style="font-size: 2em;">Hey, I'm Kyle! 👋</strong>
   </h1>
 
   <p>
