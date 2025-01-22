@@ -4,7 +4,6 @@
     width="400" 
     alt="Desk setup with motivational monitor" 
     align="right" 
-    style="margin: 10px 0 10px 20px;" 
   />
 
   Hey! I'm Kyle! 👋
