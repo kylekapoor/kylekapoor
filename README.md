@@ -7,7 +7,7 @@
   />
 
   <h1 style="display: inline-block; border-bottom: 3px solid #000; padding-left: 10px; padding-right: 10px;">
-    <strong>Hey, I'm Kyle! 👋</strong>
+    <ins>Hey, I'm Kyle! 👋<ins>
   </h1>
 
   <p>
