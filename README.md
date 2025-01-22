@@ -6,7 +6,7 @@
     align="right" 
   />
 
-  <!-- Using a <strong> tag for bold and a <h1> tag for large font size -->
+  <!-- Using <h1> for larger text and <strong> for bold -->
   <h1><strong>Hey, I'm Kyle! 👋</strong></h1>
 
   <p>
