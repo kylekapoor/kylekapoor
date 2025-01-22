@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+<img src="https://unsplash.com/photos/turned-on-flat-screen-television-5Xwaj9gaR0g" width="410" alt="iComics on an iPhone XS Max" align="right" />
+</p>
 
-<!--
-**kylekapoor/kylekapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm Kyle! 👋
 
-Here are some ideas to get you started:
+## About Me
+* 🖥 Computer Science @ University of Waterloo
+* 🚀 Actively Seeking 2025/2026 Internships
+* 🛠 Passionate About Developing Cool Things On [Github](https://github.com/kylekapoor?tab=repositories)
+* 🇨🇦 Based In Toronto, Ontario, Canada
+* 🏎 Huge F1 & NBA Fan
+* 😄 Nice To Meet You!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com) | [k36kapoo@uwaterloo.ca](mailto:k36kapoo@uwaterloo.ca)
