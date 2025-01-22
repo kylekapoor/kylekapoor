@@ -1,6 +1,6 @@
 # Hey, I'm Kyle! 👋
 
-<img align="right" height="250" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desk setup with motivational monitor">
+<img align="right" wieth="480" height="300" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desk setup with motivational monitor">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kylekapoor/">
