@@ -6,7 +6,7 @@
     align="right" 
   />
 
-  <h1 style="display: inline-block; padding-left: 10px; padding-right: 10px; border: none;">
+  <h1 style="display: padding-left: 10px; padding-right: 10px; border: none;">
     <strong style="font-size: 2em;">Hey, I'm Kyle! 👋</strong>
   </h1>
 
