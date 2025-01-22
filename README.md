@@ -6,7 +6,7 @@
     align="right" 
   />
 
-  <p style="font-size: 20px;">Hey!</p>
+  <p style="font-size: 20em;">Hey!</p>
 
   <p style="font-size: 1em;">
     🖥️ Computer Science @ University of Waterloo<br>
