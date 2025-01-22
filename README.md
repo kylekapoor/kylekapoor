@@ -4,15 +4,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kylekapoor/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kyle_kapoor/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23bc2a8d" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kylekapoor?tab=repositories">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-%232dba4e" alt="GitHub"/>
   </a>
 </p>
 
