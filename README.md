@@ -6,8 +6,7 @@
     align="right" 
   />
 
-  <p style="font-size: 2em; font-weight: bold; margin: 0;">Hello, I'm Kyle! 👋</p>
-  <p style="font-size: 1.2em; margin-top: 0;"><em>Welcome to my GitHub page!</em></p>
+  <p style="font-size: 20px;">Hey!</p>
 
   <p style="font-size: 1em;">
     🖥️ Computer Science @ University of Waterloo<br>
