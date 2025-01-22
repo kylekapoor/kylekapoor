@@ -6,10 +6,12 @@
   <a href="https://www.linkedin.com/in/kylekapoor/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5" alt="LinkedIn"/>
   </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kyle_kapoor/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/-Instagram-%23bc2a8d" alt="Instagram"/>
   </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kylekapoor?tab=repositories">
     <img src="https://img.shields.io/badge/-GitHub-%232fbb4f" alt="GitHub"/>
