@@ -6,10 +6,8 @@
     align="right" 
   />
 
-  <div style="display: padding-left: 10px; padding-right: 10px; border: none;">
-    <h1 style="font-size: 2em; font-weight: bold;">Hello, I'm Kyle! 👋</h1>
-    <p><em>Welcome to my GitHub page!</em></p>
-  </div>
+  <p style="font-size: 2em; font-weight: bold;">Hello, I'm Kyle! 👋</p>
+  <p><em>Welcome to my GitHub page!</em></p>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
