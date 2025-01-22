@@ -5,17 +5,19 @@
     alt="Desk setup with motivational monitor" 
     align="right" 
   />
+</p>
 
-  <p style="font-size: 20em;">Hey!</p>
+<p style="font-size: 20em;">Hey!</p>
 
-  <p style="font-size: 1em;">
-    🖥️ Computer Science @ University of Waterloo<br>
-    🚀 Actively Seeking 2025/2026 Internships<br>
-    🛠️ Passionate About Building Cool Projects On 
-    <a href="https://github.com/kylekapoor?tab=repositories" style="text-decoration: none; color: inherit;">GitHub</a><br>
-    🇨🇦 Based in Toronto, Ontario, Canada<br>
-    🏎️ F1 & NBA Enthusiast<br>
-    😊 Always Happy to Connect & Collaborate!<br>
-    📧 Email: 
-    <a href="mailto:kylekapoor411@gmail.com" style="text-decoration: none; color: inherit;">kylekapoor411@gmail.com</a> | 
-    <a href="mailto:k36kapoo@uwaterloo.ca" style="text-d
+<p style="font-size: 1em;">
+  🖥️ Computer Science @ University of Waterloo<br>
+  🚀 Actively Seeking 2025/2026 Internships<br>
+  🛠️ Passionate About Building Cool Projects On 
+  <a href="https://github.com/kylekapoor?tab=repositories" style="text-decoration: none; color: inherit;">GitHub</a><br>
+  🇨🇦 Based in Toronto, Ontario, Canada<br>
+  🏎️ F1 & NBA Enthusiast<br>
+  😊 Always Happy to Connect & Collaborate!<br>
+  📧 Email: 
+  <a href="mailto:kylekapoor411@gmail.com" style="text-decoration: none; color: inherit;">kylekapoor411@gmail.com</a> | 
+  <a href="mailto:k36kapoo@uwaterloo.ca" style="text-decoration: none; color: inherit;">k36kapoo@uwaterloo.ca</a>
+</p>
