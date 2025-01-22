@@ -7,7 +7,7 @@
   />
 
   <h1 style="font-size: 3em; font-weight: bold;">
-    <span style="border-bottom: 3px solid black; display: inline-block; width: 60%;">Hey! I'm Kyle! 👋</span>
+    <span style="text-decoration: underline;">Hey! I'm Kyle! 👋</span>
   </h1>
 
   <p>
