@@ -6,8 +6,8 @@
     align="right" 
   />
 
-  <h1 style="font-size: 3em; font-weight: bold;">
-    <span>Hey, I'm Kyle! 👋</span>
+  <h1 style="font-size: 3em; font-weight: bold; text-decoration: none;">
+    <span style="text-decoration: none;">Hey, I'm Kyle! 👋</span>
   </h1>
 
   <p>
