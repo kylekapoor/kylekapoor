@@ -10,7 +10,4 @@
 🇨🇦 Based in Toronto, Ontario, Canada  
 🏎️ F1 & NBA Enthusiast  
 😊 Always happy to connect & collaborate!
-
-## Contact  
-📧 [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com)  
-📧 [k36kapoo@uwaterloo.ca](mailto:k36kapoo@uwaterloo.ca)
+📧 [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com) | [k36kapoo@uwaterloo.ca](mailto:k36kapoo@uwaterloo.ca)
