@@ -15,3 +15,5 @@
 😊 Always Happy To Connect & Collaborate!  
 
 📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com)
+
+📞 Phone: <a href="tel:+1-437-247-9811">+1 (437) 247-9811</a>
