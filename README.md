@@ -6,7 +6,7 @@
     align="right" 
   />
 
-  Hey! I'm Kyle! 👋
+  <h1 style="font-size: 3em; font-weight: bold; text-decoration: underline;">Hey! I'm Kyle! 👋</h1>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
