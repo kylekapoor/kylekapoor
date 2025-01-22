@@ -7,7 +7,6 @@
   />
 
   <p style="font-size: 2em; font-weight: bold;">Hello, I'm Kyle! 👋</p>
-  <p><em>Welcome to my GitHub page!</em></p>
 
   <p>
     🖥️ Computer Science @ University of Waterloo<br>
