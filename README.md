@@ -1,7 +1,7 @@
 <p align="left">
   <img 
     src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-    width="600" 
+    width="500" 
     alt="Desk setup with motivational monitor" 
     align="right" 
   />
