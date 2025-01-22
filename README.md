@@ -6,9 +6,10 @@
     align="right" 
   />
 
-  <p style="font-size: 2em; font-weight: bold;">Hello, I'm Kyle! 👋</p>
+  <p style="font-size: 2em; font-weight: bold; margin: 0;">Hello, I'm Kyle! 👋</p>
+  <p style="font-size: 1.2em; margin-top: 0;"><em>Welcome to my GitHub page!</em></p>
 
-  <p>
+  <p style="font-size: 1em;">
     🖥️ Computer Science @ University of Waterloo<br>
     🚀 Actively Seeking 2025/2026 Internships<br>
     🛠️ Passionate About Building Cool Projects On 
@@ -18,6 +19,4 @@
     😊 Always Happy to Connect & Collaborate!<br>
     📧 Email: 
     <a href="mailto:kylekapoor411@gmail.com" style="text-decoration: none; color: inherit;">kylekapoor411@gmail.com</a> | 
-    <a href="mailto:k36kapoo@uwaterloo.ca" style="text-decoration: none; color: inherit;">k36kapoo@uwaterloo.ca</a>
-  </p>
-</p>
+    <a href="mailto:k36kapoo@uwaterloo.ca" style="text-d
