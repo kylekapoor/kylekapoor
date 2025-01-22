@@ -6,8 +6,9 @@
     align="right" 
   />
 
-  <h1 style="font-size: 3em; font-weight: bold;">
-    <span style="text-decoration: underline; display: inline-block; width: 50%;">Hey! I'm Kyle! 👋</span>
+  <h1 style="font-size: 3em; font-weight: bold; position: relative;">
+    Hey! I'm Kyle! 👋
+    <span style="position: absolute; left: 0; bottom: -5px; width: 60%; border-bottom: 2px solid black;"></span>
   </h1>
 
   <p>
