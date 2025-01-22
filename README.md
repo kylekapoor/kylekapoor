@@ -10,13 +10,13 @@
   Hey! I'm Kyle! 👋
 
   <p>
-    🖥️ Computer Science Student @ University of Waterloo<br>
+    🖥️ Computer Science @ University of Waterloo<br>
     🚀 Actively Seeking 2025/2026 Internships<br>
-    🛠️ Passionate About Building Cool Projects on 
+    🛠️ Passionate About Building Cool Projects On 
     <a href="https://github.com/kylekapoor?tab=repositories" style="text-decoration: none; color: inherit;">GitHub</a><br>
     🇨🇦 Based in Toronto, Ontario, Canada<br>
     🏎️ F1 & NBA Enthusiast<br>
-    😊 Always Excited to Connect & Collaborate!<br>
+    😊 Always Happy to Connect & Collaborate!<br>
     📧 Email: 
     <a href="mailto:kylekapoor411@gmail.com" style="text-decoration: none; color: inherit;">kylekapoor411@gmail.com</a> | 
     <a href="mailto:k36kapoo@uwaterloo.ca" style="text-decoration: none; color: inherit;">k36kapoo@uwaterloo.ca</a>
