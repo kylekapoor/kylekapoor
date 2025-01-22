@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://unsplash.com/photos/turned-on-flat-screen-television-5Xwaj9gaR0g](https://unsplash.com/photos/turned-on-flat-screen-television-5Xwaj9gaR0g)" width="410" />
+  <img src="https://images.unsplash.com/photo-1533028977139-daf416404db7" width="410" alt="iPhone XS Max displaying a comic app interface" />
 </p>
 
 # Hey! I'm Kyle! 👋
