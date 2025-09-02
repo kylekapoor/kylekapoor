@@ -18,7 +18,7 @@
 
 🖥️ Computer Science @ University of Waterloo
 
-🚀 Actively Seeking 2025/2026 Internships
+🚀 Actively Seeking 2026 Internships
 
 🛠️ Passionate About Building Cool Things On [GitHub](https://github.com/kylekapoor?tab=repositories)  
 
