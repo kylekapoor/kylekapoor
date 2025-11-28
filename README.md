@@ -20,8 +20,6 @@
 
 🚀 Actively Seeking Summer 2026 Internships
 
-🛠️ Passionate About Building Cool Things On [GitHub](https://github.com/kylekapoor?tab=repositories)  
-
 🇨🇦 Based In Toronto, Ontario, Canada  
 
 🏎️ F1 & NBA Enthusiast  
