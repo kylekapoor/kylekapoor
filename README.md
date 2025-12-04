@@ -26,4 +26,4 @@
 
 😊 Always Happy To Connect & Collaborate!  
 
-📧 Email: [kylekapoor411@gmail.com](mailto:kylekapoor411@gmail.com)
+📧 Email: [kyle.kapoor@uwaterloo.ca](mailto:kyle.kapoor@uwaterloo.ca)
