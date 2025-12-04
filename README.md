@@ -20,7 +20,7 @@
 
 🚀 Actively Seeking Summer 2026 Internships
 
-🇨🇦 Based In Toronto, ON
+🇨🇦 Based In Toronto, Ontario, Canada
 
 🏎️ Formula 1 & NBA Enthusiast
 
