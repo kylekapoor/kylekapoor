@@ -20,10 +20,10 @@
 
 🚀 Actively Seeking Summer 2026 Internships
 
-🇨🇦 Based In Toronto, Ontario, Canada  
+🇨🇦 Based In Toronto, ON
 
-🏎️ F1 & NBA Enthusiast  
+🏎️ F1 & NBA Enthusiast
 
-😊 Always Happy To Connect & Collaborate!  
+💎 Let's Connect & Collaborate!
 
 📧 Email: [kyle.kapoor@uwaterloo.ca](mailto:kyle.kapoor@uwaterloo.ca)
