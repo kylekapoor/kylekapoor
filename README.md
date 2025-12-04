@@ -22,7 +22,7 @@
 
 🇨🇦 Based In Toronto, ON
 
-🏎️ F1 & NBA Enthusiast
+🏎️ Formula 1 & NBA Enthusiast
 
 💎 Let's Connect & Collaborate!
 
