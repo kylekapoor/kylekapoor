@@ -18,9 +18,9 @@
 
 🖥️ Computer Science @ University of Waterloo
 
-🚀 Actively Seeking Summer 2026 Internships
+🚀 Actively Seeking Internships
 
-🇨🇦 Based In Toronto, Ontario, Canada
+🇨🇦 Toronto, Ontario, Canada
 
 🏎️ Formula 1 & NBA Enthusiast
 
