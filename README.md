@@ -18,7 +18,7 @@
 
 🖥️ Computer Science @ University of Waterloo
 
-🚀 Actively Seeking Internships
+🚀 Actively Seeking 2026/2027 Internships
 
 🇨🇦 Toronto, Ontario, Canada
 
