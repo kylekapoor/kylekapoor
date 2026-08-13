@@ -10,8 +10,8 @@
 
 🇨🇦 Toronto, Ontario, Canada
 
-🏎️ Formula 1 & NBA Enthusiast
+🏎️ Formula 1 & Racing Enthusiast
 
-🛠️ Building Some Things
+🔥 90-Day LeetCode Streak
 
-💎 Open To Connecting/Collaborating
+🛠️ Building Some Things...
