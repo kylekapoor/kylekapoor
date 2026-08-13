@@ -14,4 +14,4 @@
 
 🛠️ Building Some Things
 
-💎 Open To Connecting
+💎 Open To Connecting/Collaborating
