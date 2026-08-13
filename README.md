@@ -8,10 +8,10 @@
 
 🚀 Seeking 2026 & 2027 Internships
 
-🇨🇦 Toronto, Canada
+🇨🇦 Toronto, Ontario, Canada
 
 🏎️ Formula 1 & NBA Enthusiast
 
-🛠️ Building Side Projects
+🛠️ Building Some Things
 
-💎 Open To Collaborate
+💎 Open To Connecting
