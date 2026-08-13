@@ -1,29 +1,15 @@
 # Hey, I'm Kyle! 👋
 
-<img align="right" width="470" height="290" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desk setup with motivational monitor">
+<img align="right" width="420" src="https://images.unsplash.com/photo-1503437313881-503a91226402?w=840&h=520&fit=crop&auto=format&q=80" alt="Desk setup with a monitor reading Do What Is Great">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kylekapoor/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kyle_kapoor/">
-    <img src="https://img.shields.io/badge/-Instagram-%23bc2a8d" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kylekapoor?tab=repositories">
-    <img src="https://img.shields.io/badge/-GitHub-%232fbb4f" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kylekapoor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://www.instagram.com/kyle_kapoor/"><img src="https://img.shields.io/badge/Instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="https://github.com/kylekapoor?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;<a href="mailto:kyle.kapoor@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-🖥️ Computer Science @ University of Waterloo
+🖥️ Computer Science @ University of Waterloo <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/120px-University_of_Waterloo_seal.svg.png" height="24" align="top" alt="University of Waterloo">
 
-🚀 Actively Seeking 2026/2027 Internships
+🚀 Actively seeking Summer 2026 & 2027 internships
 
-🇨🇦 Toronto, Ontario, Canada
+🇨🇦 Based in Toronto, Ontario, Canada
 
-🏎️ Formula 1 & NBA Enthusiast
+🏎️ Formula 1 & NBA enthusiast
 
-💎 Let's Connect & Collaborate!
-
-📧 [kyle.kapoor@uwaterloo.ca](mailto:kyle.kapoor@uwaterloo.ca)
+💎 Always down to connect & collaborate
