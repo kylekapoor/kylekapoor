@@ -6,7 +6,7 @@
 
 <img src="waterloo.png" height="19" align="top" alt="University of Waterloo"> University of Waterloo
 
-🚀 Seeking 2026 & 2027 Internships
+🚀 Seeking 2027 Internships
 
 🇨🇦 Toronto, Ontario, Canada
 
